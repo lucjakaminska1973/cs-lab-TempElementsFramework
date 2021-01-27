@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempElementsLib", "TempElementsLib\TempElementsLib.csproj", "{D729F0D1-7E31-4996-A710-12FAFF23C495}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempelementsConsoleapp", "TempelementsConsoleapp\TempelementsConsoleapp.csproj", "{C3A15C11-11E1-4CF1-9DF6-56C7F3D63C86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D729F0D1-7E31-4996-A710-12FAFF23C495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D729F0D1-7E31-4996-A710-12FAFF23C495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D729F0D1-7E31-4996-A710-12FAFF23C495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D729F0D1-7E31-4996-A710-12FAFF23C495}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3A15C11-11E1-4CF1-9DF6-56C7F3D63C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A15C11-11E1-4CF1-9DF6-56C7F3D63C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A15C11-11E1-4CF1-9DF6-56C7F3D63C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A15C11-11E1-4CF1-9DF6-56C7F3D63C86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6FA08AC-9545-4C55-906F-48CEB7286D40}
+	EndGlobalSection
+EndGlobal
