@@ -34,6 +34,8 @@ namespace TempElementsLib.Interfaces
 
         // `true` jeśli kolekcja jest pusta, `false` w przeciwnym przypadku
         // default implementation C# 8
-        bool IsEmpty => (Elements.Count == 0);
+        bool IsEmpty();
+        
+            
     }
 }
